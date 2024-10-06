@@ -1,0 +1,3 @@
+class UIError(Exception):
+    pass
+

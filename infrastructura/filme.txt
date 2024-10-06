@@ -1,0 +1,10 @@
+1,HarryPotter,sf,interesant
+2,HomeAlone,comedie,amuzant
+3,StarWars,sf,nemaipomenit
+4,Titanic,drama,romantic
+5,Cenusareasa,animatie,frumos
+6,HungerGames,actiune,fabulos
+7,Walle,animatie,emotionant
+8,Tom&Jerry,animatie,distractiv
+9,Spiderman,actiune,palpitant
+10,Shrek,animatie,minunat
